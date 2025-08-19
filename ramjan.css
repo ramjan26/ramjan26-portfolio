@@ -756,6 +756,42 @@ footer {
     opacity: 1;
     transform: translateY(0);
 }
+.thank-you {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #000;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+.thank-you h1 {
+    font-size: 2.5rem;
+    color: #b711e0;
+    margin-bottom: 20px;
+}
+
+.thank-you p {
+    font-size: 1.2rem;
+    margin-bottom: 20px;
+}
+
+.thank-you a {
+    display: inline-block;
+    background: #b711e0;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    transition: background 0.3s;
+}
+
+.thank-you a:hover {
+    background: #9a0cc4;
+}
 
 
 
