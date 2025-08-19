@@ -185,7 +185,7 @@ nav {
 
 .main-container .image {
     width: 350px;
-    height: 45vh;
+    height: 42.5vh;
     border-radius: 100%;
     overflow: hidden;
     box-shadow: 0 0 50px #b711e0;
@@ -756,5 +756,6 @@ footer {
     opacity: 1;
     transform: translateY(0);
 }
+
 
 
